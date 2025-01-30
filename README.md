@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://canaria.cc">
-    <img src="AURORA_FLOWER.png" alt="Banner">
+    <img src="AURORA_FLOWER.png" alt="Banner"><br>
   </a>
+オーロラみたいに　キレイで儚い？<br>
+だけどだけど　消えないんだ　　　<br>
+いつもいつも　強く咲いてたいよ　<br>
+咲いてたいよ　　　　　　　　　　<br>
 </p>
 
 ## Hi there, I'm canaria 👋
