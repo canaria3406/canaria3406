@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://canaria.cc">
+    <img src="AURORA_FLOWER.png" alt="Banner">
+  </a>
+</p>
+
 ### Hi there, I'm canaria 👋 
 
 - 💼 Site Reliability Engineer
