@@ -1,4 +1,4 @@
-<img align="right" width="400" src="AURORA_FLOWER.png">
+<img align="right" width="400" src="AURORA_FLOWER.png"><br>
 
 ## Hi there, I'm canaria 👋
 
@@ -14,13 +14,7 @@
 咲いてたいよ　　　　　　　　　　<br>
 ---->
 
-## Contribution
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
-</p>
-
-## Skills
+## Skills & Tools
 
 <p>
   <img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -41,3 +35,10 @@
   <img height="40" alt="postman" src="https://raw.githubusercontent.com/github/explore/08fb5e541701424029515300b5b1e66aa2fbd68a/topics/postman/postman.png">
   <img height="40" alt="vstudiocode" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png">
 </p>
+
+## Contribution
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
+</p>
+
