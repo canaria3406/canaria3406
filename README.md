@@ -1,27 +1,28 @@
-<p align="center">
-  <a href="https://canaria.cc">
-    <img src="AURORA_FLOWER.png" alt="Banner"><br>
-  </a>
-オーロラみたいに　キレイで儚い？<br>
-だけどだけど　消えないんだ　　　<br>
-いつもいつも　強く咲いてたいよ　<br>
-咲いてたいよ　　　　　　　　　　<br>
-</p>
+<img align="right" width="400" src="AURORA_FLOWER.png">
 
 ## Hi there, I'm canaria 👋
 
 - 💼 Site Reliability Engineer
 - 💬 Contact me from [Discord](https://discord.com/users/242927802557399040)!
 
+<!----
+## AURORA FLOWER
+
+オーロラみたいに　キレイで儚い？<br>
+だけどだけど　消えないんだ　　　<br>
+いつもいつも　強く咲いてたいよ　<br>
+咲いてたいよ　　　　　　　　　　<br>
+---->
+
 ## Contribution
 
-<p align="center">
+<p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
 </p>
 
 ## Skills
 
-<p align="center">
+<p>
   <img height="40" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
   <img height="40" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
   <img height="40" alt="ecmascript" src="https://raw.githubusercontent.com/github/explore/e4270e345b968ae626310bc86e339a2ae80c6ae4/topics/ecmascript/ecmascript.png">
@@ -31,7 +32,7 @@
   <img height="40" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
 </p>
 
-<p align="center">
+<p>
   <img height="40" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
   <img height="40" alt="docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
   <img height="40" alt="googlecloud" src="https://raw.githubusercontent.com/github/explore/08e8077e6cd7375c007c6fd6ac8cced5d7738494/topics/google-cloud/google-cloud.png">
