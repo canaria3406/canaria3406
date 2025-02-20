@@ -1,18 +1,7 @@
-<img align="right" width="400" src="AURORA_FLOWER.png"><br>
-
 ## Hi there, I'm canaria 👋
 
 - 💼 Site Reliability Engineer
 - 💬 Contact me from [Discord](https://discord.com/users/242927802557399040)!
-
-<!----
-## AURORA FLOWER
-
-オーロラみたいに　キレイで儚い？<br>
-だけどだけど　消えないんだ　　　<br>
-いつもいつも　強く咲いてたいよ　<br>
-咲いてたいよ　　　　　　　　　　<br>
----->
 
 ## Skills & Tools
 
@@ -39,6 +28,17 @@
 ## Contribution
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
+<img width="500" src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
 </p>
+
+<img width="500" src="AURORA_FLOWER.png"><br>
+
+<!---
+## AURORA FLOWER
+
+オーロラみたいに　キレイで儚い？<br>
+だけどだけど　消えないんだ　　　<br>
+いつもいつも　強く咲いてたいよ　<br>
+咲いてたいよ　　　　　　　　　　<br>
+--->
 
