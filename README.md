@@ -1,6 +1,6 @@
-<img width="100%" src="AURORA_FLOWER.png">
+<img width="100%" src="kozue_kanda.jpg">
 
-# 👋 Hi there, I'm canaria
+## 👋 Hi there, I'm canaria
 
 I'm a **Site Reliability Engineer**, but sometimes a **Customer Support Engineer** when needed.
 
