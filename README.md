@@ -1,4 +1,4 @@
-<img width="100%" src="kozue_kanda.jpg">
+<a href="https://youtu.be/_Eo5v85W8tw" target="_blank"><img width="100%" src="kozue_kanda.jpg"></a>
 
 ## 👋 Hi there, I'm canaria
 
