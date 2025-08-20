@@ -13,7 +13,7 @@ I'm a **Site Reliability Engineer**, but sometimes a **Customer Support Engineer
 <a href="https://discord.com/users/242927802557399040" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" style="margin-right: 4px"></a>
 <a href="https://discord.gg/NAZ7JGzat7" target="_blank"><img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="28" style="margin-right: 4px"></a>
 
-## Skills -
+## Skills
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,mysql,go,nodejs,discordjs,deno&theme=light&perline=6" />
 
