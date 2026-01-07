@@ -1,0 +1,33 @@
+name: GitHub Readme Stats
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 30 15 * * 1  
+jobs:
+  update-cards:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    name: Update cards
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure output folder
+        run: mkdir -p pic
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=vue-dark
+          path: pic/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add pic/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push

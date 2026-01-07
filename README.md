@@ -1,4 +1,4 @@
-<a href="https://youtu.be/_Eo5v85W8tw" target="_blank"><img width="100%" src="kozue_kanda.jpg"></a>
+<a href="https://youtu.be/_Eo5v85W8tw" target="_blank"><img width="100%" src="./pic/kozue_kanda.jpg"></a>
 
 ## 👋 Hi there, I'm canaria
 
@@ -23,4 +23,4 @@ I'm a **Site Reliability Engineer**, but sometimes a **Customer Support Engineer
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=canaria3406&theme=vue-dark" />
+<img src="./pic/stats.svg" />
