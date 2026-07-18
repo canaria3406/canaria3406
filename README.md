@@ -1,4 +1,4 @@
-<a href="https://youtu.be/_Eo5v85W8tw" target="_blank"><img width="100%" src="./pic/kozue_kanda.jpg"></a>
+<a href="https://youtu.be/_Eo5v85W8tw" target="_blank"><img width="100%" src="./pic/hime_mcp.png"></a>
 
 ## 👋 Hi there, I'm canaria
 
