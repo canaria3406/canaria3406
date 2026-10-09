@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm canaria
 
-I'm a **Site Reliability Engineer**, but sometimes a **Customer Support Engineer** when needed.
+I'm primarily a **Customer Engineer**, but I also wear an **Site Reliability Engineer** hat when needed.
 
 - ✈️ Love traveling, especially to Japan.
 - 🎤 Enjoy live concerts... イエッタイガーやめてください!!!
